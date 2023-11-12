@@ -8,6 +8,9 @@
 
 <a href="https://www.canva.com/design/DAFz7H_dNr0/jq5FBLKrBWTYf4b5BwsR4Q/edit?utm_content=DAFz7H_dNr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Project Presentation Canva Link</a>
 
+
+<a href="https://drive.google.com/drive/folders/1S3utY88ta693uaAKw6p2YwUpX80oyI1L?usp=drive_link" target="_blank">Google drive link for the .pth model for 77% accuracy plain alexnet</a>
+
 #### Team Members:
 
 - Arkapravo Nandi      - z5412155
